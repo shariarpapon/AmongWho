@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 540da5563a263ce4f9a2f88e1f8515df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PFB_imposterControlUI: {fileID: 1848056504756231338, guid: 8fd0bfc9caa491c48a8c24c2df3f0951,
+      type: 3}
+  - PFB_bloodSplatterParticle: {fileID: 5579204432642047313, guid: 2e8b8def8cf7b9b428e29d87f5597e06,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

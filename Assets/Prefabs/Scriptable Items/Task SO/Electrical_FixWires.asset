@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346055164a52ac4488a51b8e01880e03, type: 3}
+  m_Name: Electrical_FixWires
+  m_EditorClassIdentifier: 
+  _name: Fix Wires
+  taskID: 0
+  location: Electrical
+  gameTaskUIPrefab: {fileID: 126355394747299105, guid: c080a15706672c8498904d04a56e7b05,
+    type: 3}
+  taskStatusUI: {fileID: 0}
